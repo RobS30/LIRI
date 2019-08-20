@@ -72,4 +72,4 @@ Command: `node liri.js do-what-it-says`
 
 - Edit the text in random.txt to test out the feature for movie-this and concert-this.
 
-![screenshot](assets/images/do_what_it_says.JPG)
+![screenshot](assets/Images/do_what_it_says.JPG)
