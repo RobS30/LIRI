@@ -43,7 +43,7 @@ Command: `node liri.js spotify-this-song '<song name here>'`
   - The album that the song is from
   - If no song is provided then your program will default to "The Sign" by Ace of Base.
 
-  ![screenshot](assets/images/spotify_this_song.jpg)
+  ![screenshot](assets/Images/spotify_this_song.JPG)
 
 #movie-this
 Command: `node liri.js movie-this '<movie name here>'`
@@ -61,7 +61,7 @@ Command: `node liri.js movie-this '<movie name here>'`
     * Actors in the movie.
   ```
 
-![screenshot](assets/images/movie_this.jpg)
+![screenshot](assets/Images/movie_this.JPG)
 
 #do-what-it-says
 Command: `node liri.js do-what-it-says`
@@ -72,4 +72,4 @@ Command: `node liri.js do-what-it-says`
 
 - Edit the text in random.txt to test out the feature for movie-this and concert-this.
 
-![screenshot](/assets/Images/do_what_it_says.jpg)
+![screenshot](assets/images/do_what_it_says.JPG)
